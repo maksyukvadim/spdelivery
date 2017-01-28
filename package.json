@@ -1,0 +1,11 @@
+{
+  "name": "cantine",
+  "version": "1.0.0",
+  "description": "js cantine (react, redux, flow, rx, immutable:))",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "dima",
+  "license": "ISC"
+}
